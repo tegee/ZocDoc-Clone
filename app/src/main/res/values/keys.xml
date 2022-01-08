@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_id">APP_ID</string>
-    <string name="auth_key">AUTH_KEY</string>
-    <string name="region">REGION</string>
+    <string name="app_id">201284629b9f26c3</string>
+    <string name="auth_key">a8ef3707e9369d9cc26c5e3277ca7869c71aaecf</string>
+    <string name="region">us</string>
 </resources>
